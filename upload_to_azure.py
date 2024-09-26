@@ -1,14 +1,14 @@
 from azure.storage.queue import QueueServiceClient
 import os
+from dotenv import load_dotenv
 
-# Din Azure Storage Connection String
-AZURE_STORAGE_CONNECTION_STRING = 'DefaultEndpointsProtocol=https;AccountName=svante;AccountKey=NsFXHkKpdkCbYh53d5rlHT0MrrjC5/Jp7XVjUpnqhP6THl9Q2nhUI5XikUEIxfg0TvEuuq9jrTi9+AStJjlqjg==;EndpointSuffix=core.windows.net'
+# Ladda miljövariabler från .env-filen
+load_dotenv()
 
-# Namn på den queue där du vill skicka meddelandet
-QUEUE_NAME = 'svantequeue'
-
-# Namnet på filen som du vill läsa och skicka som ett meddelande
-LOCAL_FILE_NAME = 'employees.json'
+# Hämta Azure Storage Connection String och Queue Name från .env
+AZURE_STORAGE_CONNECTION_STRING = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
+QUEUE_NAME = os.getenv('QUEUE_NAME')
+LOCAL_FILE_NAME = os.getenv('LOCAL_FILE_NAME', 'employees.json')  # Sätter ett standardvärde om variabeln inte finns i .env
 
 def send_to_azure_queue():
     try:

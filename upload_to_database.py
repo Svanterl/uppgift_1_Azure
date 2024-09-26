@@ -1,19 +1,22 @@
+import os
 import json
 import pyodbc
 from azure.storage.queue import QueueServiceClient
+from dotenv import load_dotenv
 
-# Din Azure Queue Storage Connection String
-AZURE_STORAGE_CONNECTION_STRING = 'DefaultEndpointsProtocol=https;AccountName=svante;AccountKey=NsFXHkKpdkCbYh53d5rlHT0MrrjC5/Jp7XVjUpnqhP6THl9Q2nhUI5XikUEIxfg0TvEuuq9jrTi9+AStJjlqjg==;EndpointSuffix=core.windows.net'
+# Ladda in miljövariabler från .env-filen
+load_dotenv()
 
-# Queue-information
-QUEUE_NAME = 'svantequeue'
+# Din Azure Queue Storage Connection String och andra variabler från .env
+AZURE_STORAGE_CONNECTION_STRING = os.getenv('AZURE_STORAGE_CONNECTION_STRING')
+QUEUE_NAME = os.getenv('QUEUE_NAME')
 
 # Din Azure SQL-databasuppgifter
-server = 'svantede23.database.windows.net'
-database = 'svantede23'
-username = 'CloudSA9c3d845b'
-password = 'Svante1996'
-driver = '{ODBC Driver 17 for SQL Server}'  # Kontrollera att du har rätt ODBC-drivrutin installerad
+server = os.getenv('SQL_SERVER')
+database = os.getenv('SQL_DATABASE')
+username = os.getenv('SQL_USERNAME')
+password = os.getenv('SQL_PASSWORD')
+driver = os.getenv('SQL_DRIVER')
 
 def receive_from_queue():
     try:
