@@ -1,3 +1,5 @@
+#Denna koden skickar JSON filen till min queue
+
 from azure.storage.queue import QueueServiceClient
 import os
 from dotenv import load_dotenv

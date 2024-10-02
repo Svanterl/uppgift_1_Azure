@@ -1,3 +1,5 @@
+#Denna koden skulle skickas in i en VM för att visa en matplotlib graf
+
 import pyodbc
 import pandas as pd
 import matplotlib.pyplot as plt

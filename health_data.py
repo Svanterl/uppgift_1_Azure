@@ -1,3 +1,5 @@
+#Koden som genererar JSON filen
+
 import json
 import random
 import datetime
