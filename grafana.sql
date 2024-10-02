@@ -19,7 +19,6 @@ GROUP BY
   device_id
 
 --Använde denna för att visa Average Steps
-
 SELECT 
     AVG(steps_taken) as average_steps
 FROM 
