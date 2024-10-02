@@ -1,0 +1,552 @@
+[
+    {
+        "device_id": 1,
+        "timestamp": "2024-10-01T11:11:10.331",
+        "heart_rate": 89,
+        "blood_pressure": {
+            "systolic": 139,
+            "diastolic": 84
+        },
+        "spo2": 90,
+        "steps_taken": 7218
+    },
+    {
+        "device_id": 2,
+        "timestamp": "2024-10-01T11:10:10.331",
+        "heart_rate": 97,
+        "blood_pressure": {
+            "systolic": 140,
+            "diastolic": 83
+        },
+        "spo2": 92,
+        "steps_taken": 6591
+    },
+    {
+        "device_id": 3,
+        "timestamp": "2024-10-01T11:09:10.331",
+        "heart_rate": 62,
+        "blood_pressure": {
+            "systolic": 132,
+            "diastolic": 74
+        },
+        "spo2": 99,
+        "steps_taken": 8169
+    },
+    {
+        "device_id": 4,
+        "timestamp": "2024-10-01T11:08:10.331",
+        "heart_rate": 75,
+        "blood_pressure": {
+            "systolic": 134,
+            "diastolic": 76
+        },
+        "spo2": 99,
+        "steps_taken": 664
+    },
+    {
+        "device_id": 5,
+        "timestamp": "2024-10-01T11:07:10.331",
+        "heart_rate": 83,
+        "blood_pressure": {
+            "systolic": 134,
+            "diastolic": 78
+        },
+        "spo2": 90,
+        "steps_taken": 9347
+    },
+    {
+        "device_id": 6,
+        "timestamp": "2024-10-01T11:06:10.331",
+        "heart_rate": 84,
+        "blood_pressure": {
+            "systolic": 138,
+            "diastolic": 90
+        },
+        "spo2": 95,
+        "steps_taken": 84
+    },
+    {
+        "device_id": 7,
+        "timestamp": "2024-10-01T11:05:10.331",
+        "heart_rate": 96,
+        "blood_pressure": {
+            "systolic": 135,
+            "diastolic": 88
+        },
+        "spo2": 99,
+        "steps_taken": 5119
+    },
+    {
+        "device_id": 8,
+        "timestamp": "2024-10-01T11:04:10.331",
+        "heart_rate": 97,
+        "blood_pressure": {
+            "systolic": 113,
+            "diastolic": 72
+        },
+        "spo2": 100,
+        "steps_taken": 3063
+    },
+    {
+        "device_id": 9,
+        "timestamp": "2024-10-01T11:03:10.331",
+        "heart_rate": 86,
+        "blood_pressure": {
+            "systolic": 122,
+            "diastolic": 70
+        },
+        "spo2": 91,
+        "steps_taken": 5375
+    },
+    {
+        "device_id": 10,
+        "timestamp": "2024-10-01T11:02:10.331",
+        "heart_rate": 74,
+        "blood_pressure": {
+            "systolic": 126,
+            "diastolic": 74
+        },
+        "spo2": 99,
+        "steps_taken": 5010
+    },
+    {
+        "device_id": 11,
+        "timestamp": "2024-10-01T11:01:10.331",
+        "heart_rate": 62,
+        "blood_pressure": {
+            "systolic": 111,
+            "diastolic": 73
+        },
+        "spo2": 99,
+        "steps_taken": 752
+    },
+    {
+        "device_id": 12,
+        "timestamp": "2024-10-01T11:00:10.331",
+        "heart_rate": 73,
+        "blood_pressure": {
+            "systolic": 133,
+            "diastolic": 90
+        },
+        "spo2": 92,
+        "steps_taken": 3321
+    },
+    {
+        "device_id": 13,
+        "timestamp": "2024-10-01T10:59:10.331",
+        "heart_rate": 76,
+        "blood_pressure": {
+            "systolic": 122,
+            "diastolic": 80
+        },
+        "spo2": 100,
+        "steps_taken": 4706
+    },
+    {
+        "device_id": 14,
+        "timestamp": "2024-10-01T10:58:10.331",
+        "heart_rate": 83,
+        "blood_pressure": {
+            "systolic": 128,
+            "diastolic": 70
+        },
+        "spo2": 92,
+        "steps_taken": 3818
+    },
+    {
+        "device_id": 15,
+        "timestamp": "2024-10-01T10:57:10.331",
+        "heart_rate": 74,
+        "blood_pressure": {
+            "systolic": 134,
+            "diastolic": 74
+        },
+        "spo2": 97,
+        "steps_taken": 7521
+    },
+    {
+        "device_id": 16,
+        "timestamp": "2024-10-01T10:56:10.331",
+        "heart_rate": 66,
+        "blood_pressure": {
+            "systolic": 134,
+            "diastolic": 87
+        },
+        "spo2": 100,
+        "steps_taken": 4802
+    },
+    {
+        "device_id": 17,
+        "timestamp": "2024-10-01T10:55:10.331",
+        "heart_rate": 87,
+        "blood_pressure": {
+            "systolic": 122,
+            "diastolic": 78
+        },
+        "spo2": 94,
+        "steps_taken": 6626
+    },
+    {
+        "device_id": 18,
+        "timestamp": "2024-10-01T10:54:10.331",
+        "heart_rate": 94,
+        "blood_pressure": {
+            "systolic": 114,
+            "diastolic": 81
+        },
+        "spo2": 98,
+        "steps_taken": 5569
+    },
+    {
+        "device_id": 19,
+        "timestamp": "2024-10-01T10:53:10.331",
+        "heart_rate": 70,
+        "blood_pressure": {
+            "systolic": 118,
+            "diastolic": 75
+        },
+        "spo2": 95,
+        "steps_taken": 3471
+    },
+    {
+        "device_id": 20,
+        "timestamp": "2024-10-01T10:52:10.331",
+        "heart_rate": 65,
+        "blood_pressure": {
+            "systolic": 135,
+            "diastolic": 78
+        },
+        "spo2": 92,
+        "steps_taken": 9756
+    },
+    {
+        "device_id": 21,
+        "timestamp": "2024-10-01T10:51:10.331",
+        "heart_rate": 61,
+        "blood_pressure": {
+            "systolic": 126,
+            "diastolic": 74
+        },
+        "spo2": 96,
+        "steps_taken": 3553
+    },
+    {
+        "device_id": 22,
+        "timestamp": "2024-10-01T10:50:10.331",
+        "heart_rate": 70,
+        "blood_pressure": {
+            "systolic": 140,
+            "diastolic": 87
+        },
+        "spo2": 91,
+        "steps_taken": 8503
+    },
+    {
+        "device_id": 23,
+        "timestamp": "2024-10-01T10:49:10.331",
+        "heart_rate": 100,
+        "blood_pressure": {
+            "systolic": 129,
+            "diastolic": 87
+        },
+        "spo2": 97,
+        "steps_taken": 6115
+    },
+    {
+        "device_id": 24,
+        "timestamp": "2024-10-01T10:48:10.331",
+        "heart_rate": 64,
+        "blood_pressure": {
+            "systolic": 112,
+            "diastolic": 90
+        },
+        "spo2": 100,
+        "steps_taken": 4104
+    },
+    {
+        "device_id": 25,
+        "timestamp": "2024-10-01T10:47:10.331",
+        "heart_rate": 76,
+        "blood_pressure": {
+            "systolic": 119,
+            "diastolic": 75
+        },
+        "spo2": 99,
+        "steps_taken": 6503
+    },
+    {
+        "device_id": 26,
+        "timestamp": "2024-10-01T10:46:10.331",
+        "heart_rate": 68,
+        "blood_pressure": {
+            "systolic": 126,
+            "diastolic": 77
+        },
+        "spo2": 100,
+        "steps_taken": 6725
+    },
+    {
+        "device_id": 27,
+        "timestamp": "2024-10-01T10:45:10.331",
+        "heart_rate": 74,
+        "blood_pressure": {
+            "systolic": 112,
+            "diastolic": 74
+        },
+        "spo2": 98,
+        "steps_taken": 965
+    },
+    {
+        "device_id": 28,
+        "timestamp": "2024-10-01T10:44:10.331",
+        "heart_rate": 98,
+        "blood_pressure": {
+            "systolic": 117,
+            "diastolic": 87
+        },
+        "spo2": 95,
+        "steps_taken": 2570
+    },
+    {
+        "device_id": 29,
+        "timestamp": "2024-10-01T10:43:10.331",
+        "heart_rate": 99,
+        "blood_pressure": {
+            "systolic": 121,
+            "diastolic": 71
+        },
+        "spo2": 92,
+        "steps_taken": 7802
+    },
+    {
+        "device_id": 30,
+        "timestamp": "2024-10-01T10:42:10.331",
+        "heart_rate": 90,
+        "blood_pressure": {
+            "systolic": 119,
+            "diastolic": 89
+        },
+        "spo2": 97,
+        "steps_taken": 3147
+    },
+    {
+        "device_id": 31,
+        "timestamp": "2024-10-01T10:41:10.331",
+        "heart_rate": 75,
+        "blood_pressure": {
+            "systolic": 111,
+            "diastolic": 87
+        },
+        "spo2": 96,
+        "steps_taken": 1906
+    },
+    {
+        "device_id": 32,
+        "timestamp": "2024-10-01T10:40:10.331",
+        "heart_rate": 69,
+        "blood_pressure": {
+            "systolic": 125,
+            "diastolic": 77
+        },
+        "spo2": 92,
+        "steps_taken": 1177
+    },
+    {
+        "device_id": 33,
+        "timestamp": "2024-10-01T10:39:10.331",
+        "heart_rate": 81,
+        "blood_pressure": {
+            "systolic": 122,
+            "diastolic": 82
+        },
+        "spo2": 93,
+        "steps_taken": 4230
+    },
+    {
+        "device_id": 34,
+        "timestamp": "2024-10-01T10:38:10.331",
+        "heart_rate": 95,
+        "blood_pressure": {
+            "systolic": 111,
+            "diastolic": 85
+        },
+        "spo2": 92,
+        "steps_taken": 9733
+    },
+    {
+        "device_id": 35,
+        "timestamp": "2024-10-01T10:37:10.331",
+        "heart_rate": 75,
+        "blood_pressure": {
+            "systolic": 128,
+            "diastolic": 72
+        },
+        "spo2": 98,
+        "steps_taken": 7697
+    },
+    {
+        "device_id": 36,
+        "timestamp": "2024-10-01T10:36:10.331",
+        "heart_rate": 63,
+        "blood_pressure": {
+            "systolic": 133,
+            "diastolic": 70
+        },
+        "spo2": 92,
+        "steps_taken": 2651
+    },
+    {
+        "device_id": 37,
+        "timestamp": "2024-10-01T10:35:10.331",
+        "heart_rate": 62,
+        "blood_pressure": {
+            "systolic": 134,
+            "diastolic": 75
+        },
+        "spo2": 92,
+        "steps_taken": 6562
+    },
+    {
+        "device_id": 38,
+        "timestamp": "2024-10-01T10:34:10.331",
+        "heart_rate": 89,
+        "blood_pressure": {
+            "systolic": 112,
+            "diastolic": 74
+        },
+        "spo2": 99,
+        "steps_taken": 5572
+    },
+    {
+        "device_id": 39,
+        "timestamp": "2024-10-01T10:33:10.331",
+        "heart_rate": 64,
+        "blood_pressure": {
+            "systolic": 119,
+            "diastolic": 70
+        },
+        "spo2": 92,
+        "steps_taken": 5830
+    },
+    {
+        "device_id": 40,
+        "timestamp": "2024-10-01T10:32:10.331",
+        "heart_rate": 82,
+        "blood_pressure": {
+            "systolic": 118,
+            "diastolic": 89
+        },
+        "spo2": 95,
+        "steps_taken": 7869
+    },
+    {
+        "device_id": 41,
+        "timestamp": "2024-10-01T10:31:10.331",
+        "heart_rate": 91,
+        "blood_pressure": {
+            "systolic": 121,
+            "diastolic": 76
+        },
+        "spo2": 91,
+        "steps_taken": 361
+    },
+    {
+        "device_id": 42,
+        "timestamp": "2024-10-01T10:30:10.331",
+        "heart_rate": 97,
+        "blood_pressure": {
+            "systolic": 110,
+            "diastolic": 85
+        },
+        "spo2": 100,
+        "steps_taken": 3704
+    },
+    {
+        "device_id": 43,
+        "timestamp": "2024-10-01T10:29:10.331",
+        "heart_rate": 95,
+        "blood_pressure": {
+            "systolic": 136,
+            "diastolic": 81
+        },
+        "spo2": 91,
+        "steps_taken": 1281
+    },
+    {
+        "device_id": 44,
+        "timestamp": "2024-10-01T10:28:10.331",
+        "heart_rate": 69,
+        "blood_pressure": {
+            "systolic": 131,
+            "diastolic": 82
+        },
+        "spo2": 95,
+        "steps_taken": 8550
+    },
+    {
+        "device_id": 45,
+        "timestamp": "2024-10-01T10:27:10.331",
+        "heart_rate": 75,
+        "blood_pressure": {
+            "systolic": 111,
+            "diastolic": 70
+        },
+        "spo2": 94,
+        "steps_taken": 7342
+    },
+    {
+        "device_id": 46,
+        "timestamp": "2024-10-01T10:26:10.331",
+        "heart_rate": 78,
+        "blood_pressure": {
+            "systolic": 123,
+            "diastolic": 83
+        },
+        "spo2": 90,
+        "steps_taken": 9243
+    },
+    {
+        "device_id": 47,
+        "timestamp": "2024-10-01T10:25:10.331",
+        "heart_rate": 66,
+        "blood_pressure": {
+            "systolic": 139,
+            "diastolic": 70
+        },
+        "spo2": 96,
+        "steps_taken": 9833
+    },
+    {
+        "device_id": 48,
+        "timestamp": "2024-10-01T10:24:10.331",
+        "heart_rate": 60,
+        "blood_pressure": {
+            "systolic": 124,
+            "diastolic": 89
+        },
+        "spo2": 90,
+        "steps_taken": 4647
+    },
+    {
+        "device_id": 49,
+        "timestamp": "2024-10-01T10:23:10.331",
+        "heart_rate": 100,
+        "blood_pressure": {
+            "systolic": 133,
+            "diastolic": 80
+        },
+        "spo2": 91,
+        "steps_taken": 4621
+    },
+    {
+        "device_id": 50,
+        "timestamp": "2024-10-01T10:22:10.331",
+        "heart_rate": 82,
+        "blood_pressure": {
+            "systolic": 139,
+            "diastolic": 86
+        },
+        "spo2": 98,
+        "steps_taken": 3642
+    }
+]
