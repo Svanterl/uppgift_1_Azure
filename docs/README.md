@@ -11,3 +11,7 @@ Sedan använder jag min data för att visualisera lokalt med Power BI:
 ![Här kan du se min PowerBI](PowerBI.png)
 Jag använder även grafana i en VM för att visualisera:
 ![Här kan du se min Logic app](grafana.png)
+Jag skapar sedan en matplotlib i en VM men får den tyvärr inte att visualisera genom min VM utan istället så hämtar jag
+en bild från min VM på Matplotlib grafen. Här kommer två bilder, ena på att jag kör koden i VM och sedan en bild på grafen.
+![Här kan du se min VM](Send_Matplotlib.png)
+![Här kan du se min Matplotlib](average_heart_rate.png)
