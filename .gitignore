@@ -1,1 +1,2 @@
+#Ignorera min .env fil där jag har alla mina lösenord och annat viktigt.
 .env
